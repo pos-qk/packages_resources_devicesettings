@@ -223,4 +223,15 @@
     <string name="refresh_extreme">极致(120Hz)</string>
     <string name="powershare_enable_title">电池共享</string>
     <string name="powershare_enable_summary">将其他设备放在你的手机背面为其充电</string>
+    <string name="hbm_fragment_title">高亮度模式</string>
+    <string name="hbm_fragment_summary">高亮度模式设置</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">启用峰值亮度</string>
+    <string name="auto_hbm_title">自动高亮度模式</string>
+    <string name="auto_hbm_summary">根据阳光调整峰值亮度</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">阈值 (lux)</string>
+    <string name="hbm_disable_time_title"></string>
+    <string name="hbm_disable_time_summary">禁用延迟（秒）</string>
+    <string name="hbm_mode_warning">长时间使用高亮度模式可能导致屏幕损坏</string>
 </resources>
